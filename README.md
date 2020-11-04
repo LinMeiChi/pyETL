@@ -3,3 +3,5 @@
 PPT_hoework.py、ETL_ptt.py、ETL_104.py 👉 自行練習，爬取PTT、104人力銀行。                                                                                                           
 # 筆記  
 PyETL_0523.docx、pyETL_0530.docx
+# 參考資料和書本 
+爬蟲參考資料.pdf
